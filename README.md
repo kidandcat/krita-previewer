@@ -7,8 +7,6 @@ Then you will have a new Context Menu entry to delete files permanently (much fa
 
 # Building
 
-- Update manifest or icon: `./manifest.ps1`
-
 - Build: `go build`
 
 # About
