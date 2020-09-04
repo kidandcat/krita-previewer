@@ -1,1 +1,0 @@
-rsrc -manifest .\wintools.exe.manifest -ico .\wintools.ico
