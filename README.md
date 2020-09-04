@@ -7,7 +7,7 @@ Then you will have a new Context Menu entry to delete files permanently (much fa
 
 # Building
 
-- Build: `go build`
+- Build: `build.ps1`
 
 # About
 
