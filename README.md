@@ -10,7 +10,7 @@ Then you will have a new Context Menu entry to preview krita files.
 
 # Roadmap
 
-- Ubuntu support
+- [ ] Ubuntu support
 
 # License
 
