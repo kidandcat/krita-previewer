@@ -55,9 +55,9 @@ func main() {
 		if err := command.Close(); err != nil {
 			fmt.Println(err)
 		}
-	}
 
-	beeep.Notify("Krita preview installed", "Run it again if you move its location!", "")
+		beeep.Notify("Krita preview installed", "Run it again if you move its location!", "")
+	}
 
 	// Uncomment for debugging
 	// fmt.Scanln()
